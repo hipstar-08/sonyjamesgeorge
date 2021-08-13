@@ -1,2 +1,2 @@
 # sonyjamesgeorge
-Repository for QA, Algorithms, DS, Practice. Share QA knowledge
+Repository for QA, Dev, Algorithms, DS, Practice. Share Dev, QA and DevOps knowledge
